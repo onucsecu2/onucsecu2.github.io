@@ -1,0 +1,58 @@
+{
+  "name": "Muhammod Ibrahim Khalil",
+  "preferredName": "Ibrahim Khalil",
+  "role": "Software Engineer",
+  "location": "Miyazaki, Japan",
+  "focus": [
+    "Backend engineering",
+    "Product engineering",
+    "Automation",
+    "AWS cloud"
+  ],
+  "website": "https://onucsecu2.github.io/",
+  "github": "https://github.com/onucsecu2",
+  "contact": "onucsecu@gmail.com",
+  "selectedWork": [
+    {
+      "name": "Nimo",
+      "description": "Japanese learning for real-life situations",
+      "status": "in development",
+      "learningEffectiveness": "not validated"
+    },
+    {
+      "name": "ChobiGen",
+      "description": "AI-assisted imagery project being revisited following qualitative feedback",
+      "status": "iterating"
+    },
+    {
+      "name": "AWS Lambda processing automation",
+      "outcome": "Reduced a recurring process from approximately 3 hours to 2 minutes",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "PANAMA",
+      "role": "Desktop product engineering and technical leadership",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "Cassette",
+      "role": "Tauri-based packaging prototype",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "Tsumiki Kanji",
+      "source": "https://github.com/onucsecu2/tsumiki",
+      "codeVisibility": "public",
+      "description": "Exploring a new way to memorize kanji"
+    }
+  ],
+  "lastCurated": "2026-11-02",
+  "lessonsLearned": [
+    {
+      "name": "BDian VPN",
+      "status": "stopped",
+      "reason": "Implementation and legal constraints",
+      "learning": "Networking and feasibility evaluation"
+    }
+  ]
+}

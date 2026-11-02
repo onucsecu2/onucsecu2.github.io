@@ -1,0 +1,9 @@
+# Ibrahim Khalil — Software Engineer
+
+Website: https://onucsecu2.github.io/
+Japanese: https://onucsecu2.github.io/jp.html
+GitHub: https://github.com/onucsecu2
+Contact: mailto:onucsecu@gmail.com
+Structured profile: https://onucsecu2.github.io/profile.json
+
+Software engineer based in Miyazaki, Japan. Focus: backend-focused full-stack engineering, Python automation, AWS, systems design and product engineering. The portfolio has selected work descriptions, with private company code intentionally not exposed. The site is not evidence of unverified adoption metrics.
