@@ -1,0 +1,38 @@
+{
+  "name": "Muhammod Ibrahim Khalil",
+  "preferredName": "Ibrahim Khalil",
+  "role": "Software Engineer",
+  "location": "Miyazaki, Japan",
+  "focus": [
+    "Backend engineering",
+    "Product engineering",
+    "Automation",
+    "AWS cloud"
+  ],
+  "website": "https://onucsecu2.github.io/",
+  "github": "https://github.com/onucsecu2",
+  "contact": "onucsecu@gmail.com",
+  "selectedWork": [
+    {
+      "name": "AWS Lambda processing automation",
+      "outcome": "Reduced a recurring process from approximately 3 hours to 2 minutes",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "PANAMA",
+      "role": "Desktop product engineering and technical leadership",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "Cassette",
+      "role": "Tauri-based packaging prototype",
+      "codeVisibility": "private"
+    },
+    {
+      "name": "Tsumiki",
+      "source": "https://github.com/onucsecu2/tsumiki",
+      "codeVisibility": "public"
+    }
+  ],
+  "lastCurated": "2026-11-02"
+}
