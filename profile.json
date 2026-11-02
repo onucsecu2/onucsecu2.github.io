@@ -25,8 +25,8 @@
       "status": "iterating"
     },
     {
-      "name": "AWS Lambda processing automation",
-      "outcome": "Reduced a recurring process from approximately 3 hours to 2 minutes",
+      "name": "Automation engineering",
+      "description": "Python and cloud-based workflows to reduce repetitive work",
       "codeVisibility": "private"
     },
     {
