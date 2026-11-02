@@ -12,3 +12,11 @@ This branch replaces the résumé-style homepage with a proof-of-work-oriented, 
 - `profile.json` and `llms.txt` expose a concise machine-readable summary; they do not represent a chatbot.
 - Older unused assets remain in the repository for easy rollback; external Bootstrap/jQuery dependencies were removed from the homepage.
 - Change history remains in git; a dated activity feed is not fabricated.
+
+## Product status clarifications
+
+- Nimo is in development; no scientific validation of learning effectiveness is claimed.
+- ChobiGen is under iteration after early qualitative feedback; no verified adoption metrics are claimed.
+- Tsumiki explores kanji memorization; no validated effectiveness is claimed.
+- BDian VPN was stopped due to implementation and legal constraints; only lessons learned are shown.
+- ConnectSphere and AO Pay are confidential and should not appear in public site content.
